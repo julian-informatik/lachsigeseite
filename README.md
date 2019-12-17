@@ -1,5 +1,5 @@
 # lachsigeseite
 Hier gibt es Lächschen
 Lebensraum
-nahrung
+Nahrung
 Zubereitung
